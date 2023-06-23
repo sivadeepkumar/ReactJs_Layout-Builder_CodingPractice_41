@@ -1,0 +1,22 @@
+.context {
+  background-color: green;
+
+  padding: 10px;
+}
+
+.nav {
+  background-color: goldenrod;
+
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.layout {
+  padding: 40px;
+}
+
+.body {
+  display: flex;
+  justify-content: space-between;
+}
